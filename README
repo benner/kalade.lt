@@ -1,0 +1,7 @@
+This is demo for provisioning.
+
+To make app work - you must need create config.php file, with content like this:
+<?php
+
+$SETTINGS = array();
+$SETTINGS['node'] = 'my.fqdn.tld';
